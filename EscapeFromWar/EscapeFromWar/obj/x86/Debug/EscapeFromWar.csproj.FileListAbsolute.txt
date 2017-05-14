@@ -1,0 +1,77 @@
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.csprojResolveAssemblyReference.cache
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Flower.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\PatrolEnemy.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\SimpleSpriteSheet.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Target.xnb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.exe
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.pdb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.exe
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.pdb
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\lab.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\n.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\floor.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\map.png
+C:\Users\André Rodrigues\Desktop\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Bullet.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Bullet.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\floor.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\lab.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\map.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\n.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Flower.xnb
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\PatrolEnemy.xnb
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\SimpleSpriteSheet.xnb
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Target.xnb
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.exe
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\EscapeFromWar.pdb
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.csprojResolveAssemblyReference.cache
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.exe
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\obj\x86\Debug\EscapeFromWar.pdb
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\chao.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Paredes.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Bordasfora.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\Saidadefora.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\ChaoT.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\ColisoesT.png
+C:\Users\André Rodrigues\Desktop\Trabalho de Técnicas\EscapeFromWar\EscapeFromWar\bin\Windows\x86\Debug\Content\RedesT.png
